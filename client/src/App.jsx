@@ -3,6 +3,8 @@ import Home from './pages/Home';
 import Catalog from './pages/Catalog';
 import About from './pages/About';
 import AnimeDetails from './pages/AnimeDetails';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
  export default function App() {
   return (
