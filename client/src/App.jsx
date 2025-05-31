@@ -3,8 +3,11 @@ import Home from './pages/Home';
 import Catalog from './pages/Catalog';
 import About from './pages/About';
 import AnimeDetails from './pages/AnimeDetails';
+import Navbar from "../src/components/Navbar"
+import Footer from "../src/components/Footer"
 
-function App() {
+
+export default function App() {
   return (
     <BrowserRouter>
       <Navbar />
