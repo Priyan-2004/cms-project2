@@ -2,7 +2,7 @@ export const animeList = [
     {
       id: 1,
       title: "Demon Slayer: Kimetsu no Yaiba",
-      image: "/images/demon-slayer.jpg",
+      image: "/src/images/demon-slayer.jpg",
       rating: 8.7,
       episodes: 26,
       genre: ["Action", "Fantasy", "Supernatural"],
