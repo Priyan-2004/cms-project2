@@ -4,7 +4,7 @@ import Catalog from './pages/Catalog';
 import About from './pages/About';
 import AnimeDetails from './pages/AnimeDetails';
 
-function App() {
+ export default function App() {
   return (
     <BrowserRouter>
       <Navbar />
