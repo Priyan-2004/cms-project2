@@ -13,7 +13,7 @@ export const animeList = [
     {
       id: 2,
       title: "Attack on Titan",
-      image: "/images/aot.jpg",
+      image: "/src/images/aot.jpg",
       rating: 9.0,
       episodes: 87,
       genre: ["Action", "Drama", "Military"],
@@ -24,7 +24,7 @@ export const animeList = [
     {
       id: 3,
       title: "My Hero Academia",
-      image: "/images/mha.jpg",
+      image: "/src/images/mha.jpg",
       rating: 8.3,
       episodes: 113,
       genre: ["Action", "Superhero", "School"],
@@ -35,7 +35,7 @@ export const animeList = [
     {
       id: 4,
       title: "Death Note",
-      image: "/images/death-note.jpg",
+      image: "/src/images/death.jpg",
       rating: 8.6,
       episodes: 37,
       genre: ["Psychological", "Thriller", "Supernatural"],
@@ -46,7 +46,7 @@ export const animeList = [
     {
       id: 5,
       title: "Fullmetal Alchemist: Brotherhood",
-      image: "/images/fmab.jpg",
+      image: "/src/images/fabh.jpg",
       rating: 9.1,
       episodes: 64,
       genre: ["Action", "Adventure", "Fantasy"],
@@ -57,7 +57,7 @@ export const animeList = [
     {
       id: 6,
       title: "One Punch Man",
-      image: "/images/opm.jpg",
+      image: "/src/images/opm.jpg",
       rating: 8.5,
       episodes: 24,
       genre: ["Action", "Comedy", "Superhero"],
@@ -68,7 +68,7 @@ export const animeList = [
     {
       id: 7,
       title: "Naruto Shippuden",
-      image: "/images/naruto.jpg",
+      image: "/src/images/ns.jpg",
       rating: 8.3,
       episodes: 500,
       genre: ["Action", "Adventure", "Martial Arts"],
@@ -79,7 +79,7 @@ export const animeList = [
     {
       id: 8,
       title: "Jujutsu Kaisen",
-      image: "/images/jujutsu.jpg",
+      image: "/src/images/jujutsu.jpg",
       rating: 8.6,
       episodes: 24,
       genre: ["Action", "Dark Fantasy", "Supernatural"],
@@ -90,7 +90,7 @@ export const animeList = [
     {
       id: 9,
       title: "Hunter x Hunter (2011)",
-      image: "/images/hxh.jpg",
+      image: "/src/images/hxh.jpg",
       rating: 9.0,
       episodes: 148,
       genre: ["Action", "Adventure", "Fantasy"],
@@ -101,7 +101,7 @@ export const animeList = [
     {
       id: 10,
       title: "Steins;Gate",
-      image: "/images/steins.jpg",
+      image: "/src/images/steins.jpg",
       rating: 9.1,
       episodes: 24,
       genre: ["Sci-Fi", "Thriller", "Psychological"],
@@ -112,7 +112,7 @@ export const animeList = [
     {
       id: 11,
       title: "Cowboy Bebop",
-      image: "/images/bebop.jpg",
+      image: "/src/images/Cowboy.jpg",
       rating: 8.8,
       episodes: 26,
       genre: ["Action", "Sci-Fi", "Noir"],
@@ -123,7 +123,7 @@ export const animeList = [
     {
       id: 12,
       title: "Spy x Family",
-      image: "/images/spy-family.jpg",
+      image: "/src/images/spy-family.jpg",
       rating: 8.7,
       episodes: 25,
       genre: ["Action", "Comedy", "Slice of Life"],
@@ -134,7 +134,7 @@ export const animeList = [
     {
       id: 13,
       title: "Vinland Saga",
-      image: "/images/vinland.jpg",
+      image: "/src/images/vinland.jpg",
       rating: 8.7,
       episodes: 24,
       genre: ["Action", "Historical", "Drama"],
@@ -145,7 +145,7 @@ export const animeList = [
     {
       id: 14,
       title: "Neon Genesis Evangelion",
-      image: "/images/eva.jpg",
+      image: "/src/images/eva.jpg",
       rating: 8.3,
       episodes: 26,
       genre: ["Mecha", "Psychological", "Sci-Fi"],
@@ -156,7 +156,7 @@ export const animeList = [
     {
       id: 15,
       title: "Chainsaw Man",
-      image: "/images/chainsaw.jpg",
+      image: "/src/images/chainsaw.jpg",
       rating: 8.6,
       episodes: 12,
       genre: ["Action", "Dark Fantasy", "Horror"],
@@ -167,7 +167,7 @@ export const animeList = [
     {
       id: 16,
       title: "Bleach",
-      image: "/images/bleach.jpg",
+      image: "/src/images/bleach.jpg",
       rating: 7.9,
       episodes: 366,
       genre: ["Action", "Adventure", "Supernatural"],
@@ -178,7 +178,7 @@ export const animeList = [
     {
       id: 17,
       title: "Code Geass",
-      image: "/images/geass.jpg",
+      image: "/src/images/geass.jpg",
       rating: 8.7,
       episodes: 50,
       genre: ["Mecha", "Military", "Psychological"],
@@ -189,7 +189,7 @@ export const animeList = [
     {
       id: 18,
       title: "Tokyo Revengers",
-      image: "/images/tokyo-revengers.jpg",
+      image: "/src/images/tokyo-revengers.jpg",
       rating: 8.0,
       episodes: 24,
       genre: ["Action", "Drama", "Time Travel"],
@@ -200,7 +200,7 @@ export const animeList = [
     {
       id: 19,
       title: "Mob Psycho 100",
-      image: "/images/mob.jpg",
+      image: "/src/images/mob.jpg",
       rating: 8.5,
       episodes: 37,
       genre: ["Action", "Comedy", "Supernatural"],
@@ -211,7 +211,7 @@ export const animeList = [
     {
       id: 20,
       title: "The Promised Neverland",
-      image: "/images/neverland.jpg",
+      image: "/src/images/neverland.jpg",
       rating: 8.5,
       episodes: 23,
       genre: ["Horror", "Mystery", "Psychological"],
@@ -222,7 +222,7 @@ export const animeList = [
     {
       id: 21,
       title: "Haikyuu!!",
-      image: "/images/haikyuu.jpg",
+      image: "/src/images/haikyuu.jpg",
       rating: 8.4,
       episodes: 85,
       genre: ["Sports", "Comedy", "Drama"],
@@ -233,7 +233,7 @@ export const animeList = [
     {
       id: 22,
       title: "Black Clover",
-      image: "/images/black-clover.jpg",
+      image: "/src/images/black-clover.jpg",
       rating: 8.1,
       episodes: 170,
       genre: ["Action", "Adventure", "Fantasy"],
@@ -244,7 +244,7 @@ export const animeList = [
     {
       id: 23,
       title: "Re:Zero - Starting Life in Another World",
-      image: "/images/rezero.jpg",
+      image: "/src/images/rezero.jpg",
       rating: 8.2,
       episodes: 50,
       genre: ["Dark Fantasy", "Isekai", "Psychological"],
@@ -255,7 +255,7 @@ export const animeList = [
     {
       id: 24,
       title: "Dr. Stone",
-      image: "/images/dr-stone.jpg",
+      image: "/src/images/dr-stone.jpg",
       rating: 8.3,
       episodes: 35,
       genre: ["Adventure", "Comedy", "Sci-Fi"],
@@ -266,7 +266,7 @@ export const animeList = [
     {
       id: 25,
       title: "Sword Art Online",
-      image: "/images/sao.jpg",
+      image: "/src/images/sao.jpg",
       rating: 7.2,
       episodes: 96,
       genre: ["Action", "Adventure", "Romance"],
@@ -277,7 +277,7 @@ export const animeList = [
     {
       id: 26,
       title: "One Piece",
-      image: "/images/one-piece.jpg",
+      image: "/src/images/one-piece.jpg",
       rating: 8.6,
       episodes: 1100,
       genre: ["Action", "Adventure", "Comedy"],
@@ -288,7 +288,7 @@ export const animeList = [
     {
       id: 27,
       title: "Dragon Ball Z",
-      image: "/images/dbz.jpg",
+      image: "/src/images/dbz.jpg",
       rating: 8.2,
       episodes: 291,
       genre: ["Action", "Adventure", "Martial Arts"],
@@ -299,7 +299,7 @@ export const animeList = [
     {
       id: 28,
       title: "Your Lie in April",
-      image: "/images/your-lie.jpg",
+      image: "/src/images/your-lie.jpg",
       rating: 8.6,
       episodes: 22,
       genre: ["Drama", "Music", "Romance"],
@@ -310,7 +310,7 @@ export const animeList = [
     {
       id: 29,
       title: "Demon Slayer: Mugen Train Arc",
-      image: "/images/mugen-train.jpg",
+      image: "/src/images/mugen-train.jpg",
       rating: 8.8,
       episodes: 7,
       genre: ["Action", "Fantasy", "Supernatural"],
@@ -321,7 +321,7 @@ export const animeList = [
     {
       id: 30,
       title: "Attack on Titan: Final Season",
-      image: "/images/aot-final.jpg",
+      image: "/src/images/aot-final.jpg",
       rating: 9.2,
       episodes: 28,
       genre: ["Action", "Drama", "Military"],
